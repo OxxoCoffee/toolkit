@@ -12,10 +12,8 @@ Escáner de sitios web. Obtén información sobre las tecnologías utilizadas en
 
 Para más información, lee la [documentación]().
 
-# Autores
-- [@VictorC2112](https://github.com/VictorC2112)
-- [@not-AMM](https://github.com/not-AMM)
+# Autores del README
 - [@OxxoCoffee](https://github.com/OxxoCoffee)
-- [@SKYDaxxx](https://github.com/SKYDaxxx)
-- [@SantyNog](https://github.com/SantyNog)
-- [@isco04](https://github.com/isco04)
+
+# Documentacion
+https://wibscanproyect.readthedocs.io/en/latest/
